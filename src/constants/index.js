@@ -24,6 +24,9 @@ import {
     tripguide,
     threejs,
     betc,
+    python,
+    postgresql,
+    angular,
   } from "../assets";
   
   export const navLinks = [
@@ -82,8 +85,8 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Python",
+      icon: python,
     },
     {
       name: "Tailwind CSS",
@@ -94,8 +97,8 @@ import {
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
+      name: "PostgreSQL",
+      icon: postgresql,
     },
     {
       name: "Three JS",
@@ -106,8 +109,8 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "Angular",
+      icon: angular,
     },
     {
       name: "docker",

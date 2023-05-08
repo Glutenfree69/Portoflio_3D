@@ -34,6 +34,8 @@ import betc from "./company/betc.png"
 import python from "./tech/python.png"
 import postgresql from "./tech/postgresql.png"
 import angular from "./tech/angular.png"
+import leboncoin from "./leboncoin.png"
+import threecool from "./threecool.png"
 
 export {
   logo,
@@ -68,4 +70,6 @@ export {
   python,
   postgresql,
   angular,
+  leboncoin,
+  threecool,
 };
